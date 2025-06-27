@@ -43,8 +43,7 @@ Feel free to fork this repository and submit pull requests if you'd like to cont
 
 ## Contact
 If you'd like to connect, you can reach me via:
-- **Email**: yashchalke75@example.com
-- **LinkedIn**: [Yash Chalke](https://linkedin.com/in/yash-chalke)
+- **Email**: pawarom295@gmail.com
 
 ---
 

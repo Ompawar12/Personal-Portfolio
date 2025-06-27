@@ -20,8 +20,7 @@ This portfolio was built using **HTML**, **CSS**, and **JavaScript**. It is desi
 To run the project locally:
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yaashchalke75/portfolio-web.git
-    ```
+https://github.com/Ompawar12/Personal-Portfolio    ```
 2. Navigate to the project folder:
     ```bash
     cd portfolio-web

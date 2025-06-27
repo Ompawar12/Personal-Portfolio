@@ -1,10 +1,6 @@
 # Portfolio Website
 
 Welcome to my personal portfolio website! This project showcases my work as a web developer, highlighting my skills, projects, and achievements.
-
-## Live Demo
-You can view the live version of my portfolio website [here](https://yaashchalke75.github.io/portfolio-web/?fbclid=PAZXh0bgNhZW0CMTEAAaaz9qXc9u9-dTfJlGyvciCRQiwV-GZj_EKA-fuzx0_6JvZVM1thQZIw5Ao_aem_HngKssHEQnCMc0lCJURWSA).
-
 ## About
 This portfolio was built using **HTML**, **CSS**, and **JavaScript**. It is designed to provide an overview of my work, skills, and professional journey as a front-end developer.
 
